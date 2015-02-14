@@ -1,0 +1,36 @@
+Start: Mon, 09 Feb 2015 16:00:00 -0800
+End: Mon, 09 Feb 2015 18:32:00  -0800
+Tasks: Created offline Log File and video database on ONID
+
+Start: Mon, 09 Feb 2015 20:00:00 -0800
+End: Mon, 09 Feb 2015 22:15:00  -0800
+Tasks: Created initial PHP files, PHP connection to database, and started the code for the html sections on the files
+
+Start: Tues, 10 Feb 2015 14:10:00 -0800
+End: Tues, 10 Feb 2015 16:41:00  -0800
+Tasks: Drew out design of the program with the roles of the seperate PHP, database correlation and the interconnections.  Began research on PHP and MySQL
+
+Start: Wed, 11 Feb 2015 12:00:00 -0800
+End: Wed, 11 Feb 2015 13:05:00  -0800
+Tasks: Started adding in functions for the database PHP file
+
+Start: Thurs, 12 Feb 2015 13:15:00 -0800
+End: Thurs, 12 Feb 2015 18:12:00  -0800
+Tasks: Finished adding in functions for the database PHP file, added in funcitonality of buttons and other PHP elements of the program
+
+Start: Fri, 13 Feb 2015 5:00:00 -0800
+End: Fri, 13 Feb 2015 8:00:00  -0800
+Tasks: Reformatted the layout of the editVideoList.php, added in comments, and changed the checked in/out toggle so that it did not take input from user but was in the button functionality in the table
+
+Start: Fri, 13 Feb 2015 9:00:00 -0800
+End: Fri, 13 Feb 2015 14:17:00  -0800
+Tasks: Double check interface requirements to see what is needed and test requirements that are in place.  In progress: error messages; integration of the drop-down category filtering; notifications of the required fileds in the user input; notification that the length  needs to be a number; and make a check for negative length input.
+
+Start: Fri, 13 Feb 2015 17:21:00 -0800
+End: Fri, 13 Feb 2015 20:22:00  -0800
+Troubleshooting the following issues: error checking to allow for the Toy Story to be added into the database without the length; html imbedded in php not allowing the return to the page with the video list after the video add--suspected to be an issue between server capability and work-around was implemented with a form taking the user to a page showing video add success; ran through testing protocol one last time; renamed log file with last name per directions
+
+Start: Fri, 13 Feb 2015 20:28:00 -0800
+End: Fri, 13 Feb 2015 20:35:00  -0800
+Created GitHub repository; added OSU tester as collaborator; and uploaded files to the site
+
